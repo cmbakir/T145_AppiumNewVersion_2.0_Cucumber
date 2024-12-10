@@ -2,6 +2,9 @@ package utilities;
 
 import java.awt.*;
 
+// Bu class farklı boyutlarda telefon emulatorleri calıstırırken, onceki telefon boyutunda koordinat aldı isek, onları
+//donusturmemıze yardımcı olan class'dır
+
 public class KoordinatDonusturucu {
     // Orijinal ekran boyutları
     private static final int ORIJINAL_EKRAN_GENISLIK = 1080;
